@@ -32,7 +32,7 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-DevHouseApi.
+DevHouse web application.
 
 ## :memo: License
 
